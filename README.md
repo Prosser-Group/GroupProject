@@ -6,3 +6,6 @@ This is to allow us to post visual studio content and recive it due to it not li
 outside zip files
 
 If it the zip file is from another person and you have changed it please rename it as not to over write progress but also name it so that it is known what it was from
+
+Wiki
+https://github.com/Prosser-Group/GroupProject/wiki
